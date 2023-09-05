@@ -1,4 +1,4 @@
 # DokDoks
 # 독후감 공유 웹사이트 DokDoks 
 
-발표 문서에 웹사이트의 모습이 담겨 있습니다
+![그림1](https://github.com/Cho-ga-nom/dokdoks/assets/43463560/243d0cfc-eacf-4d3e-9686-86d889c3270d)
